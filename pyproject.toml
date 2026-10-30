@@ -1,10 +1,10 @@
 [project]
 name = "credit-risk-assessment-ml-model"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "This is a Credit risk assessment Machine learning model"
 readme = "README.md"
 authors = [
-    { name = "nileshdubey404", email = "nileshdubey404@gmail.com" }
+    { name = "deveshdubey18", email = "314devesh11scic@gmail.com" }
 ]
 requires-python = ">=3.13"
 dependencies = [
