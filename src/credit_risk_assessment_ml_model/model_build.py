@@ -1,5 +1,7 @@
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
+import pickle
+import os
 
 def model(X_train,X_test,y_train,y_test):
     
@@ -9,6 +11,11 @@ def model(X_train,X_test,y_train,y_test):
     y_pred = model.predict(X_test)
     
     report = classification_report(y_test, y_pred)
+    
+    os.makedirs('models',exist_ok=True)
+    with open('models/model.pkl', 'wb') as f:
+        pickle.dump(model, f)
+    
     
     return report
     
