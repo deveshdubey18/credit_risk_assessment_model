@@ -1,0 +1,10 @@
+2026-11-06 19:53:18,600 - INFO - Data loaded successfully.
+2026-11-06 19:53:18,606 - INFO - Data split into features and target variable.
+2026-11-06 19:53:18,611 - INFO - Data split into training and testing sets.
+2026-11-06 19:53:18,656 - INFO - Features scaled using StandardScaler.
+2026-11-06 19:53:19,240 - INFO - Class imbalance handled using SMOTE.
+2026-11-06 19:53:19,240 - INFO - Data preprocessing completed successfully.
+2026-11-06 19:53:19,623 - INFO - Model training completed successfully.
+2026-11-06 19:53:19,655 - INFO - Model prediction completed successfully.
+2026-11-06 19:53:19,667 - INFO - Classification report generated successfully.
+2026-11-06 19:53:19,684 - INFO - Model saved successfully.
