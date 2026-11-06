@@ -187,4 +187,10 @@ models/model.pkl
 
 ---
 
+## 👨‍💻 Author
+
+**Devesh Dubey**
+- **GitHub:** [deveshdubey18](https://github.com/deveshdubey18)
+
+---
 If you find this project useful, feel free to explore the notebooks and experiment with other classification models and evaluation methods.
