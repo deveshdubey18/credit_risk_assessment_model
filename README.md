@@ -194,3 +194,7 @@ models/model.pkl
 
 ---
 If you find this project useful, feel free to explore the notebooks and experiment with other classification models and evaluation methods.
+
+---
+
+*If you find this project useful, consider starring the repository and sharing your feedback.*
